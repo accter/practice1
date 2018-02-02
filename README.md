@@ -1,4 +1,3 @@
-# practice1
 100+ Python challenging programming exercises
 
 1.	Level description
@@ -2373,6 +2372,5 @@ solutions=solve(numheads,numlegs)
 print solutions
 
 #----------------------------------------#
-
 
 
